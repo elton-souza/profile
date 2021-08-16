@@ -1,1 +1,1 @@
-# Auto Escrita com JavaScript
+# Auto egit scrita com JavaScript
